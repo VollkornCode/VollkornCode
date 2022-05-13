@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan (@VollkornCode)
-- 👀 I’m interested in improving social media and helping people reclaim their digital identity and communities
+- 👀 I’m interested in improving social media and helping people reclaim their digital identity as well as creating safe digital communities
 - 🌱 I’m currently studying computer science @ETH
 
 <!---
